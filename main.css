@@ -1,8 +1,19 @@
-
 h3{
     color: rgb(245, 163, 0);
 }
 
 h4{
     color:rgba(236, 208, 63, 0.952)
+}
+
+.a{
+    color: rgb(50, 235, 72);
+}
+
+.b{
+    color: rgb(45, 192, 245);
+}
+
+body{
+    background-color: rgb(146, 146, 146);
 }
