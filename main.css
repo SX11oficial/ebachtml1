@@ -1,3 +1,4 @@
+
 h3{
     color: rgb(245, 163, 0);
 }
@@ -16,4 +17,22 @@ h4{
 
 body{
     background-color: rgb(146, 146, 146);
+}
+
+.dogecoin{
+
+background-color: brown;
+}
+
+.tec{
+    background-color: aquamarine;
+}
+
+.ler{
+    color: black;
+    background-color: beige;
+}
+.mais{
+    color: blueviolet;
+    background-color: blanchedalmond;
 }
